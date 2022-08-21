@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px auto 0px auto;
+  font-family: 'Satisfy';
+  font-size: 80px;
+  color: #11999E;
+  line-height: 1.2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Tangerine';
+  font-size: 60px;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Satisfy';
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Tangerine';
+  font-size: 40px;
+}
+
+a {
+  color: #11999E;
+  font-size: 40px;
+  font-family: 'Satisfy';
+}
+
+
+
+hr {
+  border: none;
+  border-top-color: #FFC090;
+  border-top-style: dotted;
+  border-top-width: 20px;
+  width: 20%;
+  margin: 100px auto 100px auto;
+}
+
+.top-cloud {
+  position: relative;
+  left: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+.sichuan-hot-pot {
+  width: 300px;
+  position: relative;
+  top: 50px;
+  right: 10px;
+}
+
+.Sukiyaki {
+  width: 300px;
+  position: relative;
+  top: 50px;
+}
+
+.fried-chicken {
+  width: 250px;
+  position: relative;
+  top: 50px;
+  left:10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  padding:50px;
+  text-align: left;
+  line-height: 1.1;
+}
+
+.skill-row-image-cat {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row-image-skewer {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.middle-container {
+  background-color: #F7F6DC;
+}
+
+.bottom-container {
+  background-color: #96E5D1;
+  height: 100px;
+}
+
+.contact-me {
+  padding-bottom: 30px;
+  font-family: 'ZCOOL XiaoWei';
+  color: black;
+}
+
+.copyright {
+  font-family: 'ZCOOL XiaoWei';
+  color: grey;
+  font-size: 20px;
+  display: inline-flex;
+}
